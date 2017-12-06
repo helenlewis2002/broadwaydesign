@@ -11,10 +11,31 @@ color: white;
   text-align: center;
 }
 .footer {
+  background-color: dimgray;
   text-align: left;
 }
-.links {
-  font-size: 18px;
+.subheader {
   font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+.process {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+.A {
+  font-family: helvetica;
+  font-size: 14px;
+}
+.links {
+  font-size: 17px;
+  font-family: helvetica;
+  color: white;
+}
+.bottomline {
+  text-align: left;
+  font-family: helvetica;
+  font-size: 11px;
   color: white;
 }
